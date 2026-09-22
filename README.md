@@ -19,4 +19,5 @@ Install it if you already spend your day on other people's Shopify stores and yo
 
 *An independent review page, unaffiliated with and not endorsed by TrendTrack; all trademarks and product names remain the property of their owners.*
 
+
 _Last reviewed: 2026-09-22_
